@@ -1349,3 +1349,13 @@ svg.arrow.down {
   border-radius: 100%;
   margin: 0 auto;
 }
+
+.partners-dext{
+  position: absolute;
+  top: -1.1em;
+  left: 0;
+}
+.partners-coinmarketcap{
+  position: relative;
+  top: 0.2em;
+}
