@@ -1,0 +1,42 @@
+.pd-2{
+    padding:2%;
+}
+.pd-r-2{
+    padding-right:2%;
+}
+.pd-l-2{
+    padding-left:2%;
+}
+.pd-t-2{
+    padding-top:2%;
+}
+.pd-b-2{
+    padding-bottom:2%;
+}
+body{
+    font-family: 'PT Sans', sans-serif;
+}
+ul li{
+    list-style: none;
+}
+.faq-item{
+    border:1px solid #c8d5ff;
+    width:100%;
+    cursor:pointer;
+    padding:0.65rem 1rem;
+    border-radius: 2px;
+    margin-bottom: 1.3rem;
+}
+.faq-item .collapse .onmineshaft{
+    line-height: 17px !important;
+}
+
+.hyper-faq {
+    color: #375BD2 !important;
+}
+.faq-item div:first-child{
+    line-height: 20px !important;
+}
+.faq-item .collapse{
+    margin-top: 1rem;
+}
